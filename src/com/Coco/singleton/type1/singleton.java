@@ -14,7 +14,6 @@ public class singleton {
         return instance;
     }
 
-
     //优缺点说明:
 
     //1. 优点:写法简单,就是在类装载的时候就完成了实例化.避免了线程同步问题.
