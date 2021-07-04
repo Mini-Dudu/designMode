@@ -14,7 +14,7 @@
 
 * 类图:
 
-  ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\咖啡问题方案一.png) 
+  ![](..\_img\咖啡问题方案一.png) 
 
 * 问题分析
 
@@ -34,7 +34,7 @@
 
 * 类图:
 
-  ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\咖啡问题方案二.png)
+  ![](..\_img\咖啡问题方案二.png)
 
 * 说明:
 
@@ -74,11 +74,11 @@
 
 * 原理类图:
 
-  ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\桥接模式原理类图2.png)
+  ![](..\_img\桥接模式原理类图2.png)
 
 * 设计方案
 
-  ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\装饰者模式设计方案.png) 
+  ![](..\_img\装饰者模式设计方案.png) 
 
   * Drink 类就是前面说的抽象类, Component
   * ShortBlank 就是单品咖啡
@@ -87,7 +87,7 @@
 
 * 装饰者模式下的订单: 两份巧克力 + 一份牛奶的LongBlank
 
-  ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\订单例子.png) 
+  ![](..\_img\订单例子.png) 
 
   * 说明
     1. Milk 包含了 LongBlank

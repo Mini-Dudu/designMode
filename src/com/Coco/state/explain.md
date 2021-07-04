@@ -16,7 +16,7 @@
 
     4. 活动的四个状态转换关系如下图:
 
-       ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\APP抽奖状态图.png)
+       ![](..\_img\APP抽奖状态图.png)
 
 
 

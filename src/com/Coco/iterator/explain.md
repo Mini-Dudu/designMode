@@ -8,7 +8,7 @@
 
   - 如图
 
-    ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\院系展示需求.png)
+    ![](..\_img\院系展示需求.png)
 
 - 传统方式
 

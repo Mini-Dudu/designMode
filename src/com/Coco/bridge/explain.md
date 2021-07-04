@@ -42,7 +42,7 @@
 
 * 桥接模式原理类图:
 
-  ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\桥接模式原理类图.png)
+  ![](..\_img\桥接模式原理类图.png)
 
 
 
