@@ -8,7 +8,7 @@
 
   * 如图
 
-    ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\院系展示需求.png)
+    ![](..\_img\院系展示需求.png)
 
 * 传统方式
 
@@ -37,7 +37,7 @@
 
 ### 原理类图:
 
-* ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\组合模式原理类图.png) 
+* ![](..\_img\组合模式原理类图.png) 
   * 说明:
     1. Component : 是组合中对象声明接口, 在适当情况下,实现所有类共有的接口默认行为, 用于访问和管理 Component 子类部件, Component 可以是接口或者抽象类.
     2. Leaf : 在组合中表示叶子节点, 叶子节点没有子节点
