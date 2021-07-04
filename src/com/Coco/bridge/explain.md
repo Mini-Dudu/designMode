@@ -8,11 +8,11 @@
 
 * 传统模式如图:
 
-  ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\手机问题.png)
+  ![](..\_img\手机问题.png)
 
 * 传统模式对应类图:
 
-  ![](E:\IdeaProjects\DesignMode\src\com\Coco\_img\手机问题类图.png)
+  ![](..\_img\手机问题类图.png)
 
 
 
